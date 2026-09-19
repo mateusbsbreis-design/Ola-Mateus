@@ -1,2 +1,5 @@
-# Ola,Mateus
-primeiro repositorio versionado
+# Olá, Mateus
+Primeiro repositorio versionado
+
+Aprendendo a mecher no Git Hub
+:)
