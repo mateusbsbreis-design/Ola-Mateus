@@ -1,5 +1,7 @@
 # Olá, Mateus
-Primeiro repositorio versionado
+Primeiro repositório versionado
 
-Aprendendo a mecher no Git Hub
+Aprendendo a mexer no Git Hub
 :)
+
+Fiz uma alteração diretamente no site.
